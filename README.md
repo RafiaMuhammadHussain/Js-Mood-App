@@ -48,5 +48,10 @@ Example:
 
 ```javascript
 document.body.style.backgroundColor = "#eee9a1";
+```
 
-Made with ❤️ by Rafia Muhammad Hussain
+---
+
+## 👩‍💻 Author
+
+Made with ❤️ by Rafia Muhammad Hussainn
